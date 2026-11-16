@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b0d,50:10251b,100:080b0d&height=180&section=header&text=klydz&fontSize=65&fontColor=78ffad&fontAlignY=45&animation=twinkling&desc=Vulnerability%20Researcher%20%26%20Security%20Engineer&descSize=14&descAlignY=68&descColor=8baba0" width="100%" />
+<img src="https://klydz.net/data/uploads/20260808-buttonklydz-480021.gif" width="100%" />
 
 ![Website](https://img.shields.io/badge/WEBSITE-klydz.net-101812?style=for-the-badge&logo=firefox&logoColor=78ffad) ![GitHub](https://img.shields.io/badge/GITHUB-klydz-101812?style=for-the-badge&logo=github&logoColor=78ffad)
 
