@@ -7,9 +7,10 @@
 </div>
 
 // domains
+<div align="center">
 
 SYSTEMS ENGINEERING · LINUX/WINDOWS INTERNALS · SECURITY RESEARCH · THREAT INTELLIGENCE · WEB SECURITY
-
+</div>
 <div align="center">
 
 <img src="https://i.pinimg.com/736x/2a/25/78/2a2578b9970ddbc98b6592fa1df364c4.jpg" width="100%" />
